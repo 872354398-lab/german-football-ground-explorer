@@ -22,7 +22,7 @@ function App() {
     <main className="app-shell">
       <header className="hero">
         <p className="eyebrow">Groundhopping Germany</p>
-        <h1>German Football Ground Explorer</h1>
+        <h1>German Football Stadium Explorer</h1>
         <p>
           Explore famous German football stadiums, filter by league and size,
           and discover where to go next.
