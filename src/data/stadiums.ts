@@ -97,4 +97,16 @@ export const stadiums: Stadium[] = [
     longitude: 12.3483,
     highlight: 'A modern arena built within the bowl of the former Zentralstadion.',
   },
+  {
+    id: 'olympiastadion-berlin',
+    name: 'Olympiastadion Berlin',
+    club: 'Hertha BSC',
+    city: 'Berlin',
+    capacity: 74475,
+    opened: 1936,
+    league: '2. Bundesliga',
+    latitude: 52.5147,
+    longitude: 13.2395,
+    highlight: 'A historic Olympic stadium and one of Germany’s most recognisable football venues.',
+  }
 ]
